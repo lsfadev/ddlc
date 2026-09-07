@@ -1,0 +1,742 @@
+hxppy thxughts.png
+image 456,386
+images/bg/bedroom.png
+image 1280,720
+images/bg/bsod.png
+image 1920,1080
+images/bg/class.png
+image 1280,720
+images/bg/closet.png
+image 1280,720
+images/bg/club-skill.png
+image 1280,720
+images/bg/club.png
+image 1280,720
+images/bg/corridor.png
+image 1280,720
+images/bg/end-glitch1.JPG
+image 1280,1280
+images/bg/end-glitch2.JPG
+image 1280,1280
+images/bg/end-glitch3.JPG
+image 1280,1280
+images/bg/end-glitch4.JPG
+image 1280,1280
+images/bg/eyes.png
+image 540,720
+images/bg/glitch-blue.png
+image 512,480
+images/bg/glitch-green.png
+image 512,480
+images/bg/glitch-red.png
+image 512,480
+images/bg/glitch.jpg
+image 512,480
+images/bg/house.jpg
+image 1280,720
+images/bg/house.png
+image 1280,720
+images/bg/kitchen.png
+image 1280,720
+images/bg/noise1.jpg
+image 1280,720
+images/bg/noise2.jpg
+image 1280,720
+images/bg/noise3.jpg
+image 1280,720
+images/bg/noise4.jpg
+image 1280,720
+images/bg/notebook-glitch.png
+image 1280,720
+images/bg/notebook.png
+image 1280,720
+images/bg/poem-glitch1.png
+image 1280,720
+images/bg/poem-glitch2.png
+image 1280,720
+images/bg/poem.jpg
+image 800,720
+images/bg/poem_y1.jpg
+image 800,720
+images/bg/poem_y2.jpg
+image 800,720
+images/bg/residential.png
+image 1280,720
+images/bg/sayori_bedroom.png
+image 1280,720
+images/bg/splash-glitch.png
+image 1280,720
+images/bg/splash-glitch2.png
+image 1280,720
+images/bg/splash-white.png
+image 1280,720
+images/bg/splash.png
+image 1280,720
+images/bg/veinmask.png
+image 1280,720
+images/bg/veinmaskb.png
+image 1280,720
+images/bg/vignette.png
+image 1280,720
+images/bg/warning.png
+image 1280,720
+images/bg/warning2.png
+image 1280,720
+images/cg/credits/1.png
+image 1280,720
+images/cg/credits/10.png
+image 1280,720
+images/cg/credits/10b.png
+image 1280,720
+images/cg/credits/1b.png
+image 1280,720
+images/cg/credits/2.png
+image 1280,720
+images/cg/credits/2b.png
+image 1280,720
+images/cg/credits/3.png
+image 1280,720
+images/cg/credits/3b.png
+image 1280,720
+images/cg/credits/4.png
+image 1280,720
+images/cg/credits/4b.png
+image 1280,720
+images/cg/credits/5.png
+image 1280,720
+images/cg/credits/5b.png
+image 1280,720
+images/cg/credits/6.png
+image 1280,720
+images/cg/credits/6b.png
+image 1280,720
+images/cg/credits/7.png
+image 1280,720
+images/cg/credits/7b.png
+image 1280,720
+images/cg/credits/8.png
+image 1280,720
+images/cg/credits/8b.png
+image 1280,720
+images/cg/credits/9.png
+image 1280,720
+images/cg/credits/9b.png
+image 1280,720
+images/cg/monika/child.png
+image 1280,720
+images/cg/monika/child_2.png
+image 1280,720
+images/cg/monika/mask.png
+image 1280,720
+images/cg/monika/mask_2.png
+image 1280,720
+images/cg/monika/mask_3.png
+image 1280,720
+images/cg/monika/maskb.png
+image 1280,720
+images/cg/monika/monika_bg.png
+image 1280,720
+images/cg/monika/monika_bg_glitch.png
+image 1280,720
+images/cg/monika/monika_bg_highlight.png
+image 1280,720
+images/cg/monika/monika_glitch1.png
+image 1280,720
+images/cg/monika/monika_glitch2.png
+image 1280,720
+images/cg/monika/monika_glitch3.png
+image 1280,720
+images/cg/monika/monika_glitch4.png
+image 1280,720
+images/cg/monika/monika_room.png
+image 1280,720
+images/cg/monika/monika_room_highlight.png
+image 1280,720
+images/cg/monika/monika_scare.png
+image 1280,720
+images/cg/monika/room.png
+image 1280,720
+images/cg/n_cg1_base.png
+image 1280,720
+images/cg/n_cg1_bg.png
+image 1280,720
+images/cg/n_cg1_exp1.png
+image 1280,720
+images/cg/n_cg1_exp2.png
+image 1280,720
+images/cg/n_cg1_exp3.png
+image 1280,720
+images/cg/n_cg1_exp4.png
+image 1280,720
+images/cg/n_cg1_exp5.png
+image 1280,720
+images/cg/n_cg1b.png
+image 1280,720
+images/cg/n_cg2_base.png
+image 1280,720
+images/cg/n_cg2_bg.png
+image 1280,720
+images/cg/n_cg2_exp1.png
+image 1280,720
+images/cg/n_cg2_exp2.png
+image 1280,720
+images/cg/n_cg3_base.png
+image 1280,720
+images/cg/n_cg3_cake.png
+image 1280,720
+images/cg/n_cg3_exp1.png
+image 1280,720
+images/cg/n_cg3_exp2.png
+image 1280,720
+images/cg/s_cg1.png
+image 1280,720
+images/cg/s_cg2_base1.png
+image 1280,720
+images/cg/s_cg2_base2.png
+image 1280,720
+images/cg/s_cg2_exp1.png
+image 1280,720
+images/cg/s_cg2_exp2.png
+image 1280,720
+images/cg/s_cg2_exp3.png
+image 1280,720
+images/cg/s_cg3.png
+image 1280,720
+images/cg/s_kill.png
+image 286,1050
+images/cg/s_kill2.png
+image 286,1050
+images/cg/s_kill_bg.png
+image 1280,720
+images/cg/s_kill_bg2.png
+image 1280,720
+images/cg/s_kill_early.png
+image 153,672
+images/cg/y_cg1_base.png
+image 1280,720
+images/cg/y_cg1_exp1.png
+image 1280,720
+images/cg/y_cg1_exp2.png
+image 1280,720
+images/cg/y_cg1_exp3.png
+image 1280,720
+images/cg/y_cg2.png
+image 1280,720
+images/cg/y_cg2_base.png
+image 1280,720
+images/cg/y_cg2_bg1.png
+image 1280,720
+images/cg/y_cg2_bg2.png
+image 1280,720
+images/cg/y_cg2_details.png
+image 1280,720
+images/cg/y_cg2_dust1.png
+image 1280,720
+images/cg/y_cg2_dust2.png
+image 1280,720
+images/cg/y_cg2_dust3.png
+image 1280,720
+images/cg/y_cg2_dust4.png
+image 1280,720
+images/cg/y_cg2_exp2.png
+image 1280,720
+images/cg/y_cg2_exp3.png
+image 1280,720
+images/cg/y_cg2_nochoc.png
+image 1280,720
+images/cg/y_cg3_base.png
+image 1280,720
+images/cg/y_cg3_exp1.png
+image 1280,720
+images/cg/y_kill/1a.png
+image 1280,720
+images/cg/y_kill/1b.png
+image 1280,720
+images/cg/y_kill/1c.png
+image 1280,720
+images/cg/y_kill/2a.png
+image 1280,720
+images/cg/y_kill/2b.png
+image 1280,720
+images/cg/y_kill/2c.png
+image 1280,720
+images/cg/y_kill/3a.png
+image 1280,720
+images/cg/y_kill/3b.png
+image 1280,720
+images/cg/y_kill/3c.png
+image 1280,720
+images/menu/credits_temp.png
+image 1280,720
+images/menu/credits_temp1.png
+image 640,360
+images/menu/frame-old.png
+image 64,64
+images/menu/frame.png
+image 64,64
+images/menu/notfound.png
+image 640,360
+images/menu/wipedown.png
+image 1280,720
+images/menu/wipeleft.png
+image 1280,720
+images/monika/1l.png
+image 960,960
+images/monika/1r.png
+image 960,960
+images/monika/2l.png
+image 960,960
+images/monika/2r.png
+image 960,960
+images/monika/3a.png
+image 960,960
+images/monika/3b.png
+image 960,960
+images/monika/a.png
+image 960,960
+images/monika/b.png
+image 960,960
+images/monika/c.png
+image 960,960
+images/monika/d.png
+image 960,960
+images/monika/e.png
+image 960,960
+images/monika/f.png
+image 960,960
+images/monika/g.png
+image 960,960
+images/monika/g1.png
+image 623,982
+images/monika/g2.png
+image 720,960
+images/monika/g3.png
+image 720,960
+images/monika/g4.png
+image 720,960
+images/monika/h.png
+image 960,960
+images/monika/i.png
+image 960,960
+images/monika/j.png
+image 960,960
+images/monika/k.png
+image 960,960
+images/monika/l.png
+image 960,960
+images/monika/m.png
+image 960,960
+images/monika/n.png
+image 960,960
+images/monika/o.png
+image 960,960
+images/monika/p.png
+image 960,960
+images/monika/q.png
+image 960,960
+images/monika/r.png
+image 960,960
+images/natsuki/0.png
+image 960,960
+images/natsuki/1bl.png
+image 960,960
+images/natsuki/1br.png
+image 960,960
+images/natsuki/1l.png
+image 960,960
+images/natsuki/1r.png
+image 960,960
+images/natsuki/1t.png
+image 960,960
+images/natsuki/2bl.png
+image 960,960
+images/natsuki/2br.png
+image 960,960
+images/natsuki/2bt.png
+image 960,960
+images/natsuki/2bta.png
+image 960,960
+images/natsuki/2btb.png
+image 960,960
+images/natsuki/2btc.png
+image 960,960
+images/natsuki/2btd.png
+image 960,960
+images/natsuki/2bte.png
+image 960,960
+images/natsuki/2btf.png
+image 960,960
+images/natsuki/2btg.png
+image 960,960
+images/natsuki/2bth.png
+image 960,960
+images/natsuki/2bti.png
+image 960,960
+images/natsuki/2l.png
+image 960,960
+images/natsuki/2r.png
+image 960,960
+images/natsuki/2t.png
+image 960,960
+images/natsuki/2ta.png
+image 960,960
+images/natsuki/2tb.png
+image 960,960
+images/natsuki/2tc.png
+image 960,960
+images/natsuki/2td.png
+image 960,960
+images/natsuki/2te.png
+image 960,960
+images/natsuki/2tf.png
+image 960,960
+images/natsuki/2tg.png
+image 960,960
+images/natsuki/2th.png
+image 960,960
+images/natsuki/2ti.png
+image 960,960
+images/natsuki/3.png
+image 960,960
+images/natsuki/3b.png
+image 960,960
+images/natsuki/a.png
+image 960,960
+images/natsuki/b.png
+image 960,960
+images/natsuki/blackeyes.png
+image 960,960
+images/natsuki/c.png
+image 960,960
+images/natsuki/d.png
+image 960,960
+images/natsuki/e.png
+image 960,960
+images/natsuki/eye.png
+image 46,46
+images/natsuki/f.png
+image 960,960
+images/natsuki/g.png
+image 960,960
+images/natsuki/ghost1.png
+image 960,960
+images/natsuki/ghost2.png
+image 960,960
+images/natsuki/ghost3.png
+image 960,960
+images/natsuki/ghost_blood.png
+image 115,85
+images/natsuki/glitch1.png
+image 960,960
+images/natsuki/h.png
+image 960,960
+images/natsuki/i.png
+image 960,960
+images/natsuki/j.png
+image 960,960
+images/natsuki/k.png
+image 960,960
+images/natsuki/l.png
+image 960,960
+images/natsuki/m.png
+image 960,960
+images/natsuki/mouth.png
+image 55,37
+images/natsuki/n.png
+image 960,960
+images/natsuki/o.png
+image 960,960
+images/natsuki/p.png
+image 960,960
+images/natsuki/q.png
+image 960,960
+images/natsuki/r.png
+image 960,960
+images/natsuki/s.png
+image 960,960
+images/natsuki/scream.png
+image 960,960
+images/natsuki/t.png
+image 960,960
+images/natsuki/u.png
+image 960,960
+images/natsuki/v.png
+image 960,960
+images/natsuki/vomit.png
+image 960,960
+images/natsuki/w.png
+image 960,960
+images/natsuki/x.png
+image 960,960
+images/natsuki/y.png
+image 960,960
+images/natsuki/z.png
+image 960,960
+images/poem_special/poem_end.png
+image 800,720
+images/poem_special/poem_end_clearall.png
+image 1280,720
+images/poem_special/poem_special1.png
+image 800,720
+images/poem_special/poem_special10.png
+image 800,720
+images/poem_special/poem_special11.png
+image 800,720
+images/poem_special/poem_special2.png
+image 800,720
+images/poem_special/poem_special3.png
+image 800,720
+images/poem_special/poem_special4.png
+image 800,720
+images/poem_special/poem_special5a.png
+image 800,720
+images/poem_special/poem_special5b.png
+image 800,720
+images/poem_special/poem_special6.png
+image 800,720
+images/poem_special/poem_special7a.png
+image 623,982
+images/poem_special/poem_special7b.png
+image 623,982
+images/poem_special/poem_special8.png
+image 800,720
+images/poem_special/poem_special9.png
+image 800,720
+images/sayori/1bl.png
+image 960,960
+images/sayori/1br.png
+image 960,960
+images/sayori/1l.png
+image 960,960
+images/sayori/1r.png
+image 960,960
+images/sayori/2bl.png
+image 960,960
+images/sayori/2br.png
+image 960,960
+images/sayori/2l.png
+image 960,960
+images/sayori/2r.png
+image 960,960
+images/sayori/3a.png
+image 960,960
+images/sayori/3b.png
+image 960,960
+images/sayori/3c.png
+image 960,960
+images/sayori/3d.png
+image 960,960
+images/sayori/a.png
+image 960,960
+images/sayori/b.png
+image 960,960
+images/sayori/c.png
+image 960,960
+images/sayori/d.png
+image 960,960
+images/sayori/e.png
+image 960,960
+images/sayori/end-glitch1.png
+image 651,893
+images/sayori/end-glitch2.png
+image 651,893
+images/sayori/f.png
+image 960,960
+images/sayori/g.png
+image 960,960
+images/sayori/glitch1.png
+image 894,894
+images/sayori/glitch2.png
+image 894,894
+images/sayori/h.png
+image 960,960
+images/sayori/i.png
+image 960,960
+images/sayori/j.png
+image 960,960
+images/sayori/k.png
+image 960,960
+images/sayori/l.png
+image 960,960
+images/sayori/m.png
+image 960,960
+images/sayori/n.png
+image 960,960
+images/sayori/noface1.png
+image 340,315
+images/sayori/noface1b.png
+image 340,315
+images/sayori/noface2.png
+image 270,282
+images/sayori/o.png
+image 960,960
+images/sayori/p.png
+image 960,960
+images/sayori/q.png
+image 960,960
+images/sayori/r.png
+image 960,960
+images/sayori/s.png
+image 960,960
+images/sayori/t.png
+image 960,960
+images/sayori/u.png
+image 960,960
+images/sayori/v.png
+image 960,960
+images/sayori/w.png
+image 960,960
+images/sayori/x.png
+image 960,960
+images/sayori/y.png
+image 960,960
+images/yuri/0a.png
+image 960,960
+images/yuri/0b.png
+image 960,960
+images/yuri/1bl.png
+image 960,960
+images/yuri/1br.png
+image 960,960
+images/yuri/1l.png
+image 960,960
+images/yuri/1r.png
+image 960,960
+images/yuri/2bl.png
+image 960,960
+images/yuri/2br.png
+image 960,960
+images/yuri/2l.png
+image 960,960
+images/yuri/2r.png
+image 960,960
+images/yuri/3.png
+image 960,960
+images/yuri/3b.png
+image 960,960
+images/yuri/a.png
+image 960,960
+images/yuri/a2.png
+image 960,960
+images/yuri/b.png
+image 960,960
+images/yuri/b2.png
+image 960,960
+images/yuri/c.png
+image 960,960
+images/yuri/c2.png
+image 960,960
+images/yuri/cuts.png
+image 960,960
+images/yuri/d.png
+image 960,960
+images/yuri/d2.png
+image 960,960
+images/yuri/dragon1.png
+image 960,960
+images/yuri/dragon2.png
+image 960,960
+images/yuri/e.png
+image 960,960
+images/yuri/e2.png
+image 960,960
+images/yuri/eyes1.png
+image 1280,720
+images/yuri/eyes2.png
+image 1280,720
+images/yuri/eyesfull.png
+image 960,960
+images/yuri/f.png
+image 960,960
+images/yuri/g.png
+image 960,960
+images/yuri/glitch1.png
+image 894,894
+images/yuri/glitch2.png
+image 894,894
+images/yuri/glitch3.png
+image 894,894
+images/yuri/glitch4.png
+image 894,894
+images/yuri/glitch5.png
+image 894,894
+images/yuri/h.png
+image 960,960
+images/yuri/hisui.png
+image 960,960
+images/yuri/i.png
+image 960,960
+images/yuri/j.png
+image 960,960
+images/yuri/k.png
+image 960,960
+images/yuri/l.png
+image 960,960
+images/yuri/m.png
+image 960,960
+images/yuri/n.png
+image 960,960
+images/yuri/o.png
+image 960,960
+images/yuri/oneeye.png
+image 960,960
+images/yuri/oneeye2.png
+image 960,960
+images/yuri/p.png
+image 960,960
+images/yuri/q.png
+image 960,960
+images/yuri/r.png
+image 960,960
+images/yuri/s.png
+image 960,960
+images/yuri/stab/1.png
+image 960,960
+images/yuri/stab/2.png
+image 960,960
+images/yuri/stab/3.png
+image 960,960
+images/yuri/stab/4.png
+image 960,960
+images/yuri/stab/4_wipe.png
+image 1280,720
+images/yuri/stab/5.png
+image 960,960
+images/yuri/stab/6-eyes.png
+image 960,960
+images/yuri/stab/6-full.png
+image 960,960
+images/yuri/stab/6-mask.png
+image 960,960
+images/yuri/stab/6.png
+image 960,960
+images/yuri/t.png
+image 960,960
+images/yuri/u.png
+image 960,960
+images/yuri/v.png
+image 960,960
+images/yuri/w.png
+image 960,960
+images/yuri/y1.png
+image 960,960
+images/yuri/y2.png
+image 960,960
+images/yuri/y3.png
+image 960,960
+images/yuri/y4.png
+image 960,960
+images/yuri/y5.png
+image 960,960
+images/yuri/y6.png
+image 960,960
+images/yuri/y7.png
+image 960,960
+images/yuri/za.png
+image 264,279
+images/yuri/zb.png
+image 264,279
+images/yuri/zc.png
+image 264,279
+images/yuri/zd.png
+image 264,279
